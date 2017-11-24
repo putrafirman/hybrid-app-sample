@@ -1,4 +1,4 @@
-# A Blank PhoneGap App
+# A Blank PhoneGap App for PPK Practicum in FILKOM UB
 
 ## Usage
 
@@ -12,3 +12,4 @@ In your browser, open the file:
 
     /www/index.html
 
+	
